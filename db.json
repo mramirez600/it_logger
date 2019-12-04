@@ -1,5 +1,20 @@
 {
-  "logs": [],
+  "logs": [
+    {
+      "id": 1,
+      "message": "kjlkgjhf88",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-12-04T19:28:41.665Z"
+    },
+    {
+      "id": 2,
+      "message": "123",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2019-12-04T19:28:46.095Z"
+    }
+  ],
   "techs": [
     {
       "id": 1,
